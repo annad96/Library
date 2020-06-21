@@ -1,0 +1,8 @@
+﻿  Library.cpp
+C:\Users\annad\Desktop\Library\Library\Book.h(9,15): error C3646: "author": Unbekannter Überschreibungsspezifizierer
+C:\Users\annad\Desktop\Library\Library\Book.h(9,15): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Users\annad\Desktop\Library\Library\Book.h(10,14): error C3646: "title": Unbekannter Überschreibungsspezifizierer
+C:\Users\annad\Desktop\Library\Library\Book.h(10,14): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Users\annad\Desktop\Library\Library\Book.h(11,17): error C3646: "keywords": Unbekannter Überschreibungsspezifizierer
+C:\Users\annad\Desktop\Library\Library\Book.h(11,17): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Users\annad\Desktop\Library\Library\Book.h(13,1): fatal error C1070: Fehlende Zuordnung von #if und #endif in Datei "C:\Users\annad\Desktop\Library\Library\Book.h"
