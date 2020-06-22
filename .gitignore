@@ -6,6 +6,7 @@
 # User-specific files
 library
 a.out
+*.gch
 *.rsuser
 *.suo
 *.user
