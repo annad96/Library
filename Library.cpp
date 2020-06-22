@@ -6,16 +6,10 @@
 
 Library::Library()
 
-{
-	// _books = { {" "," "," "} };
-}
+{}
 
 void Library::addBook(Book newBook)
 {
-	//newBook.add(Book::title, Book::author, Book::keyword)
-	// newBook.title;
-	// newBook.author;
-	// newBook.keyword;
   books_.push_back(newBook);
 }
 
