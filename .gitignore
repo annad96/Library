@@ -5,6 +5,7 @@
 
 # User-specific files
 library
+a.out
 *.rsuser
 *.suo
 *.user

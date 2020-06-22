@@ -2,9 +2,10 @@
 # include <string>
 
 Book::Book(std::string author, std::string title, std::string keyword)
-	author_(author), title_(title), keyword_(keyword)
 {
-
+  author_ = author;
+  title_ = title;
+  keyword_ = keyword;
 }
 
 std::string Book::titleIs() const {

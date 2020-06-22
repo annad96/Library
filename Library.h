@@ -12,14 +12,14 @@ class Book;
 class Library
 {
 public:
-	Library(Book newBook, std::string title, std::string keyword);
-	void addBook(Book newBook);
-	void searchTitle(std::string title);
-	void searchKeyword(std::string keyword);
-	std::vector<Vec3D> _books;
+	Library();
+	// void addBook(Book newBook);
+	// void searchTitle(std::string title);
+	// void searchKeyword(std::string keyword);
+	// std::vector<Vec3D> _books;
 
-private:
-	Book book_;
-	
+// private:
+	// Book book_;
+
 };
 #endif
